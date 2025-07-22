@@ -19,7 +19,7 @@ A responsive web-based dashboard for displaying IoT (Internet of Things) device 
 - [Next.js](https://nextjs.org/)
 - [Supabase](https://supabase.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- JavaScript (or TypeScript optional)
+- JavaScript 
 
 ---
 
