@@ -28,5 +28,17 @@ A responsive web-based dashboard for displaying IoT (Internet of Things) device 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/my-iot-dashboard.git
-cd my-iot-dashboard
+git clone https://github.com/AliDastan81/IoTNextJs.git
+cd IoTNextJs
+```
+
+### 2.  Install Dependencies
+```bash
+npm install
+```
+
+### 3.  Start the Development Server
+```bash
+npm run dev
+```
+
